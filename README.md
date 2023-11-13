@@ -1,1 +1,1 @@
-# cs463-lab03-NN
+# lab-03-nn-mlubarsky
